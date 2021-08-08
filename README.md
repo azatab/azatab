@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning JavaScript, HTML, CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 azatabrarov@ya.ru
+- https://www.linkedin.com/in/azat-abrarov-104473217/
 
 <!---
 azatab/azatab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
