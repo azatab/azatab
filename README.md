@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @azatab
 - 👀 I’m interested in JS
-- 🌱 I’m currently learning JavaScript, HTML, CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 azatabrarov@ya.ru
+- 🌱 I’m currently learning TS
+- 📫 ufamath@gmail.com
 - https://www.linkedin.com/in/azat-abrarov-104473217/
 
 <!---
